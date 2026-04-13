@@ -1,2 +1,5 @@
 # elliptic-curve-cryptography
-Repository for code and notes from Elliptic curve cryptogrpahy course on Military University of Technology
+Coursework repository for Elliptic Curve Cryptography (ECC) 
+at the Military University of Technology. Covers key 
+theoretical concepts and practical implementations including 
+point arithmetic, ECDH key exchange and ECDSA signatures.
